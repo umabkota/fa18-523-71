@@ -4,3 +4,10 @@ owner:
   lastname: "Kota"
   hid: "fa18-523-71"
   community: "i523"
+
+technologies:
+
+~ url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lxd.md
+~ url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openvz.md
+~ url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/google-fusion-tables.md
+~ url : https://github.com/cloudmesh/technologies/blob/master/chapters/tech/harp.md
