@@ -1,11 +1,14 @@
-# Project Proposal 
-## I523/E534: Big Data Application
-### Fall 2018
+# TITLE MISSING
 
-###### Jatin Bhutka (jdbhutka)
-###### Uma B Kota (umabkota)
+:o: this seems to be duplicated, we will not review as we do not know which one is valid, only submit one report and delete the other!
 
-###### October 5, 2018
+I523/E534: Big Data Application
+Fall 2018
+
+Jatin Bhutka (jdbhutka)
+Uma B Kota (umabkota)
+
+October 5, 2018
 
 *1 Problem Statement*  
   
