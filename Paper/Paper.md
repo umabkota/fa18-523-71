@@ -14,7 +14,7 @@ IOT is one of the most evovlving technologies out there today and it's all about
 
 ### Keywords:
 
-IOT, Big Data, Analytics.
+IoT, Big Data, Analytics.
 
 ### Introduction:
 
