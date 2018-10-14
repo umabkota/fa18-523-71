@@ -10,11 +10,11 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/google-fusion-tables.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/harp.md
 paper:
-  - title: Role of Big Data in IoT
+  - title: "Role of Big Data in IoT"
   - url: https://github.com/cloudmesh-community/fa18-523-71/blob/master/paper/paper.md
   - group: fa18-523-71
 project: 
-  - title: Credit Card Defaulter Analysis
+  - title: "Credit Card Defaulter Analysis"
   - url:https://github.com/cloudmesh-community/fa18-523-71/blob/master/project-report/project.md
   - group: fa18-523-71
-  - code: 
+  - code: TBD
