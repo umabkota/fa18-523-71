@@ -11,10 +11,12 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/harp.md
 paper:
   - title: "Role of Big Data in IoT"
-  - url: https://github.com/cloudmesh-community/fa18-523-71/blob/master/paper/paper.md
-  - group: fa18-523-71 fa18-523-59
+    keyword: IoT
+    url: https://github.com/cloudmesh-community/fa18-523-71/blob/master/paper/paper.md
+    group: fa18-523-71 fa18-523-59
 project: 
   - title: "Credit Card Defaulter Analysis"
-  - url:https://github.com/cloudmesh-community/fa18-523-71/blob/master/project-report/project.md
-  - group: fa18-523-71 fa18-523-59
-  - code: TBD
+    keyword: Credit
+    url:https://github.com/cloudmesh-community/fa18-523-71/blob/master/project-report/project.md
+    group: fa18-523-71 fa18-523-59
+    code: TBD
