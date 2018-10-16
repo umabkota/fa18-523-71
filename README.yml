@@ -9,7 +9,7 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/lxd.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openvz.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/google-fusion-tables.md
-  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/harp.md
+  - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cdmi.md
 paper:
   - title: "Role of Big Data in IoT"
     keyword: IoT
