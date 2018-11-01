@@ -32,7 +32,7 @@ Today’s bigdata world, Internet of things (IoT) is gaining more and more atten
 ### Use cases
 
 
-### Aplications
+### Applications
 
 
 ### Future of IoT and Big Data 
