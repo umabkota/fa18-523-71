@@ -1,38 +1,43 @@
 # Role of Big Data in IoT :hand: fa18-523-71, fa18-523-59
 
-Uma Kota, Jatinkumar Bhutka
-Indiana University Bloomington
-
-umabkota@iu.edu
-jdbhutka@iu.edu
-
+| Uma Kota, Jatinkumar Bhutka
+| umabkota@iu.edu, jdbhutka@iu.edu
+| Indiana University Bloomington
+| hid: fa18-523-71, fa18-523-59
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-71/edit/master/paper/paper.md)
 
 
 ### Abstract
 
 IOT is one of the most evovlving technologies out there today and it's all about ubiquitous computing. Almost all the industries today are using sennsors to diagnose the performance of their systems, this data is being used to understand the maintenance, repair issues of machines and also in bettering the output produced by them. With the humungous growth of such systems not only in factories and machinery but also in daily walks of life, the data generated is growing exponentially. With such huge data handling, Big data infrastructure plays a pivotal role in running and functioning of IoT.
 
+---
 
-### Keywords
-
+## Keywords
 IoT, Big Data, Analytics.
 
-### Introduction
+---
+
+## Introduction
 
 Today’s bigdata world, Internet of things (IoT) is gaining more and more attention. With increase in digital connection between physical objects and internet,  data generation rate is rapidly increased in past few years which opens the door for to analyses of big data with the help of big data technologies such as Spark, Hadoop, MapReduce etc.
 
+## Architecture
 
 
+## Implementation
 
 
-### Examples
+## Result
 
 
+## Use cases
 
 
-### Future of IoT and Big Data 
+## Aplications
 
 
+## Future of IoT and Big Data 
 
 
-### Conclusion 
+## Conclusion 
