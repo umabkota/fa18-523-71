@@ -1,5 +1,13 @@
 # Credit Card Defaulter Analysis
 
+:o: please use markdown
+
+:o: format not followed
+
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-71/blob/master/project-report/report.md)
+
+
+
 I523/E534: Big Data Application
 Fall 2018
 
