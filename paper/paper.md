@@ -12,9 +12,11 @@
 The Internet of things (IoT) is one of the most evolving technology out there today and it is all about ubiquitous computing. Almost all the industries today are using sensors to diagnose the performance of their systems, this data is being used to understand the maintenance, repair issues of machines and in bettering the output produced by them. With the humungous growth of such systems not only in factories and machinery but also in daily walks of life, the data generated is growing exponentially. With such huge data handling, Big data infrastructure plays a pivotal role in running and functioning of IoT.
 
 ---
+
 ## Keywords
 
 IoT, Big Data, Analytics, fa18-523-59, fa18-523-71.
+
 ---
 
 ### Introduction
