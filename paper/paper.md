@@ -13,9 +13,7 @@ The Internet of things (IoT) is one of the most evolving technology out there to
 
 ---
 
-## Keywords
-
-IoT, Big Data, Analytics, fa18-523-59, fa18-523-71.
+Keywords: IoT, Big Data, Analytics, fa18-523-59, fa18-523-71.
 
 ---
 
