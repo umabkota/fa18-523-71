@@ -1,22 +1,17 @@
-# Credit Card Defaulter Analysis
+# Credit Card Defaulter Analysis :hand: fa18-523-71, fa18-523-59
 
-:o: please use markdown
+| Uma Kota, Jatinkumar Bhutka
+| umabkota@iu.edu, jdbhutka@iu.edu
+| Indiana University Bloomington
+| hid: fa18-523-71, fa18-523-59
+| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-71/edit/master/project-report/report.md)
 
-:o: format not followed
+---
+### Keywords
 
-| github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-71/blob/master/project-report/report.md)
+---
 
-
-
-I523/E534: Big Data Application
-Fall 2018
-
-Jatin Bhutka (jdbhutka)
-Uma B Kota (umabkota)
-
-October 5, 2018
-
-*1 Problem Statement*  
+**:mortar_board: Problem Statement**
   
 In 2006, Taiwan saw credit card debt crisis, the banks of Taiwan over issued credit cards in pursuit of
 increasing their market share. Also, many cardholders consumed more than their capacity thereby
@@ -26,13 +21,13 @@ analysis will help us better understand the route cause behind defaulting and al
 way to classify an applicant given his data.We’ll be working on different modelling techniques like
 k means, logistic regression, naive Bayes and artificial neural networks to get provide our solution.
 
-*2 Data*  
+### Data  
   
 The Default of credit card clients is multivariate Data Set from UCI machine learning Repository.It
 consists of 30,000 records with 23 features. The features includes amount of given credit, Sex,
 Education, Marital status, Age, History of past payments, amount of bill statements, amount paid.
 
-*3 Questions*
+### Questions
 * what is the best evaluation metric for the models and it’s precision, recall or specificity and
 sensitivity.
 * Which is the best model to predict the defaulters.
@@ -40,7 +35,7 @@ sensitivity.
 * How this can help to minimize bank’s risk.
 * We will analyze data to answer more questions.
 
-*4 Timeline*
+### Timeline*
 * Data Pre-processing – we will be using python for this
 * Exploratory Data Analysis
 * Data modelling
@@ -51,6 +46,6 @@ sensitivity.
 * Modelling Analysis
 * Evaluation and Conclusion
 
-*References*  
+### References*  
 [1] I-Cheng Yeh and Che-hui Lien, The comparisons of data mining techniques for the predictive
 accuracy of probability of default of credit card clients
