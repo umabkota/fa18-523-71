@@ -10,6 +10,7 @@
 * :o: review the rules of a and the some sentences miss them
 * :o: figures need to be mentioned in text by number, see how we do that in the sample
 * :o: if image is copied you need bibtex citation in caption
+* :o: grammar errors
 
 ### Abstract
 
