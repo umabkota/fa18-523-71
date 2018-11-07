@@ -11,6 +11,7 @@
 * :o: figures need to be mentioned in text by number, see how we do that in the sample
 * :o: if image is copied you need bibtex citation in caption
 * :o: grammar errors
+* :o: no contartions with `s
 
 ### Abstract
 
@@ -134,6 +135,3 @@ With data coming from disparate data sources and diversified connected devices, 
 ### Conclusion
 
 With time and the advancements in the field of IoT and big data, we have come to saying that they are nothing but two sides of the same coin. Why we say so is because Big Data and its analytics is all about data and this data is sourced from the many ‘connected devices’ that are connected to the IoT. The data volumes are expected to increase as and how the number of connected devices are to increase thus making the all aspects of life more digital.
-
-### Acknowledgments
-The author would like to thank Dr. Gregorvon Laszewski for his support and suggestions to write this paper.
