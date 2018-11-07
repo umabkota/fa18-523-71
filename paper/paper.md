@@ -12,6 +12,7 @@
 * :o: if image is copied you need bibtex citation in caption
 * :o: grammar errors
 * :o: no contartions with `s
+* :o: see the sample on how to do images and cite them within the paper, you need to look at epub
 
 ### Abstract
 
