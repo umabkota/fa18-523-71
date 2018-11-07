@@ -6,8 +6,10 @@
 | hid: fa18-523-71, fa18-523-59
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-71/edit/master/paper/paper.md)
 
-:o: no colons in headings
-:o: review the rules of a and the some sentences miss them
+* :o: no colons in headings
+* :o: review the rules of a and the some sentences miss them
+* :o: figures need to be mentioned in text by number, see how we do that in the sample
+* :o: if image is copied you need bibtex citation in caption
 
 ### Abstract
 
