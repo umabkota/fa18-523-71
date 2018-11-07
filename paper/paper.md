@@ -7,6 +7,7 @@
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-71/edit/master/paper/paper.md)
 
 :o: no colons in headings
+:o: review the rules of a and the some sentences miss them
 
 ### Abstract
 
