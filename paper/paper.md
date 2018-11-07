@@ -3,7 +3,7 @@
 | Uma Kota, Jatinkumar Bhutka
 | umabkota@iu.edu, jdbhutka@iu.edu
 | Indiana University Bloomington
-| hid: fa18-523-71, fa18-523-59
+| hid: fa18-523-71 fa18-523-59
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-71/edit/master/paper/paper.md)
 
 * :o: no colons in headings
