@@ -6,7 +6,6 @@
 | hid: fa18-523-71 fa18-523-59
 | github: [:cloud:](https://github.com/cloudmesh-community/fa18-523-71/edit/master/paper/paper.md)
 
-* :o: no colons in headings
 * :o: review the rules of a and the some sentences miss them
 * :o: figures need to be mentioned in text by number, see how we do that in the sample
 * :o: if image is copied you need bibtex citation in caption
@@ -14,7 +13,7 @@
 * :o: no contartions with `s
 * :o: see the sample on how to do images and cite them within the paper, you need to look at epub
 
-### Abstract
+### Abstract:
 
 The Internet of things (IoT) is one of the most evolving technology out there today and it is all about ubiquitous computing. Almost all the industries today are using sensors to diagnose the performance of their systems, this data is being used to understand the maintenance, repair issues of machines and in bettering the output produced by them. With the humungous growth of such systems not only in factories and machinery but also in daily walks of life, the data generated is growing exponentially. With such huge data handling, Big data infrastructure plays a pivotal role in running and functioning of IoT.
 
@@ -24,7 +23,7 @@ Keywords: IoT, Big Data, Analytics, fa18-523-59, fa18-523-71.
 
 ---
 
-### Introduction
+### Introduction:
 
 Internet has been around for a while, but it’s been mostly the product of the people so all the things on the internet such as games, social media, images, and movies all of that are created by people and for the people and about the people. Internet is one of the most creative and transformative things invented. It has changed the way humans go about their lives a great deal. Its woven into the lives of all of us in one or the other way. It is connecting people all around the globe. There is this new emerging and it will change world again. The new internet is not just connecting people, but it is about connecting things. And hence, it is named Internet of Things (IoT).
 
@@ -42,22 +41,22 @@ The interaction between digital mediums require special architecture and there a
 - Physical Devices and controllers:
 The lowest layer of the Internet of Things (IoT) architecture is the physical devices and controllers which consists of electronic gadgets, sensors and activators which are used to take data input from various sources.
 
-- 	Connectivity:
+- Connectivity:
 The next layer we have in the Internet of Thing (IoT) architecture is the Connectivity layer which takes care of the communication between sensors and processing units that try converting the data into an understandable format with the help of certain protocol and perform selection on the data that is to be processed further into the IoT architecture creating thresholds for the incoming data.
 
-- 	Edge computing
+- Edge computing:
 Edge Computing does the analysis of Data Elements and their transformation This is achieved by analyzing and filtering the data before it is processed further thereby reducing huge computing and networking costs. The incoming raw data from the sensors and activators can be selectively sent for further analysis. Also, one of the major concerns of Internet of Things (IoT) architecture which is Data Security. Edge computing overcomes this to a considerable extent by keeping some of the sensitive data into the sensor devices. Also, there are devices known as edge devices coming into existence which will help in the analytics and compute purposes delivering the data deliverables at a much faster speed in a robust manner. Not only this, but these edge devices will help in the connectivity with the connected devices at the source thereby allowing us to have a luxury of new smart devices.
 
 -  Data Accumulation:
 Data Accumulation is largely done in distributed frameworks as the incoming data is of huge volumes and variety and travelling at a great velocity. Data is distributed into small sets of data using the key/pair values just as in the case of data tuples, mapped and then reduced to small chunks of data before processing it further. Also, these days, organizations are trying to use PaaS (Platform as a Service) as a cloud platform for hosting data publicly and at the same time, securely, thus customizing it to their needs.
 
-- 	Data Abstraction:
+- Data Abstraction:
 Different translation rules are brought into place for the connectivity of specific devices. Also, a single model for data abstraction is created and provided to all the devices of a same service thereby achieving integration of various devices.
 
-- 	Application
+- Application:
 The Application layer consists of the reporting and analytics part of the architecture. All the efforts that were put into the data accumulation, abstraction, storage, transformation, cleansing, preparing smaller chunks will be benefited only if proper analytics is performed and strategic Business Intelligence reports are generated out of this data.
 
-- 	Collaboration and processes:
+- Collaboration and processes:
 Collaboration and processes layer is the User Interface layer where the people i.e. the end users and the business processes come into picture. In the end, it is the customer for whom engages with the business processes and hence both are brought on the same page and hence the name Collaboration and processes layer.
 
 ### Big Data and IoT Together:
@@ -91,7 +90,7 @@ Major threats as far as big data security is concerned are to the Data Mining so
 - Big data Analytics:
 The analytics of big data consists of a lot of challenges as the inward flow of data is quite unstructured as it is from various connected devices like the sensors and websites. Hence the big data consists of three V’s; Volume – huge volumes of data sourced from sensors is to be analyzed. Variety – Data is unstructured and is in the form of 3d data, 2d data, log files etc. Velocity – the speed with which the data is processed which is nothing but real-time processing and continuous data processing. Hence, we see data complexity in Big Data Analytics.
 
--	Tools of big data:
+- Tools of big data:
 In order to draw effective insights and inferences from the data, proper big data tools need to be in place. If the analysis of data is not done in a proper manner, then the efforts that are put into the collection of data from various data repositories and processing it through will be of no use. The commonly used Big Data tools are Apace Hadoop, Apache Hive, Storm, Cloudera, Qubole etc.
 
 ### Challenges:
@@ -129,10 +128,10 @@ Now, IoT and Big data is everywhere. Due to the flexibility and scalability natu
 
 - Predictive Maintenance using IoT – Millions of dollars can be saved by the companies by keeping the equipment’s and assets going all the time with the help of sensors and data analytics thereby preventive maintenance  [@fa18-523-59-www-iot-industrialusecase].
 
-### Future of IoT and Big Data
+### Future of IoT and Big Data:
 
 With data coming from disparate data sources and diversified connected devices, it has given the big data analysts option to distinguish and filter data and just process the useful chunks of data further to the data warehouses and then generate Business Intelligence reports from there on. With the emergence of IoT, it has become increasingly possible to reach out to the customers at any given time of the day. Devices like Fitbits and smart devices have made it possible for the doctors to get timely updates of the patient’s doing about his health thereby allowing the physicists to intervene whenever needed and provide mannerly treatment and diagnosis to their patients. Businesses have been reaping the benefits of the advancement in technology by having the luxury of digitally connecting to their clients even from the most remote locations in the world. In the years to come, the amalgam of the advancement in technology i.e. the Internet of Things, big data will give more likelihood to the businessmen in gathering even the most detailed information of their client and customers thereby giving themselves a better opportunity to improve their business from the perspective of effectively managing the monetary department and providing a better customer satisfaction which will invariably up their business a great deal [@fa18-523-59-www-iot-futureofiot].
 
-### Conclusion
+### Conclusion:
 
 With time and the advancements in the field of IoT and big data, we have come to saying that they are nothing but two sides of the same coin. Why we say so is because Big Data and its analytics is all about data and this data is sourced from the many ‘connected devices’ that are connected to the IoT. The data volumes are expected to increase as and how the number of connected devices are to increase thus making the all aspects of life more digital.
