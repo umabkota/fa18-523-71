@@ -11,7 +11,7 @@
 
 ---
 
-**:mortar_board: Problem Statement:
+**:mortar_board: Problem Statement:**
   
 In 2006, Taiwan saw credit card debt crisis, the banks of Taiwan over issued credit cards in pursuit of
 increasing their market share. Also, many cardholders consumed more than their capacity thereby
