@@ -118,7 +118,7 @@ Interactions between digital mediums require special architecture and there are 
 
   
 
--  Physical Devices and controllers\: 
+- Physical Devices and controllers\: 
 
   
 
@@ -130,7 +130,7 @@ The lowest layer of the Internet of Things (IoT) architecture is comprised of ph
 
   
 
--     Connectivity\: 
+- Connectivity\: 
 
   
 
@@ -142,7 +142,7 @@ Next layer in the Internet of Thing (IoT) architecture is connectivity layer whi
 
   
 
--     Edge computing \: 
+-  Edge computing \: 
 
   
 
@@ -154,7 +154,7 @@ Edge Computing does the analysis of data elements. Their transformation is achie
 
   
 
--  Data Accumulation\: 
+- Data Accumulation\: 
 
   
 
@@ -166,7 +166,7 @@ Data Accumulation is largely done in distributed frameworks as incoming data is 
 
   
 
--     Data Abstraction\: 
+- Data Abstraction\: 
 
   
 
@@ -178,7 +178,7 @@ Different translation rules are brought into place for securing connectivity of 
 
   
 
--     Application \: 
+- Application \: 
 
   
 
@@ -190,7 +190,7 @@ The Application layer consists of reporting and analytics part of the architectu
 
   
 
--     Collaboration and processes\: 
+- Collaboration and processes\: 
 
   
 
@@ -298,7 +298,7 @@ The analytics of big data consists of a lot of challenges as the inward flow of 
 
   
 
--    Tools of big data\: 
+- Tools of big data\: 
 
   
 
@@ -400,9 +400,7 @@ The Internet of Things (IoT) has advanced its applications in the field of Healt
 
 The traditional building management systems look after buildings\' power sourced systems. The new Smart building energy management systems with help of IoT sensors offer a lot more than monitoring these systems. The data collected is also leveraged to conduct analysis on the raw data which is then transformed into insightful reports that can help make the systems way more efficient. Sensor devices that track weather and traffic data can also be connected to this system and their data can be utilized in adjusting a building\'s lighting, temperature etc., in real-time. The operating costs can be cut by 25% with help of these systems.  
 
-  
-
--Application in Airline Industry/:  
+ - Application in Airline Industry/:  
 
   
 
