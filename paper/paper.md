@@ -1,4 +1,4 @@
-# Role of Big Data and IoT in Real World  :hand: fa18-523-71 fa18-523-59 
+# IOT and Big Data Real World Applications and Future Trends  :hand: fa18-523-71 fa18-523-59 
 
   
 
