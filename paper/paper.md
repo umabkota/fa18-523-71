@@ -417,26 +417,22 @@ Now, IoT and Big data is everywhere. Due to the flexibility and scalability of b
   
 
  - Airline Management using IoT\:  
+ IoT in airline industry can be seen everywhere from baggage tracking to cabin climate control. With help of IoT, the industry is trying
+ to increase customer satisfaction by reducing the complaints like lost baggage, flight delays and service issues as well as in cutting
+ unnecessary operational costs.  
 
+  Airways like Virgin Atlantic, Etihad are manufacturing planes that are connected with help of IoT devices. Data of half a terabyte is
+  expected to be produced over a flight journey, this will be analyzed to get the information regarding mechanical issues etc., before
+  they may even occur. With help of such technology the flight delays, safety issues will be restricted.  
+
+  Delta was one of the first airlines to introduce Radio Frequency Identification (RFID), a baggage tracking technology that leverages
+  IoT. With help of RFID, the customers can always access their baggage location from their phone while travelling with the airlines.
   
-
-IoT in airline industry can be seen everywhere from baggage tracking to cabin climate control. With help of IoT, the industry is trying to increase customer satisfaction by reducing the complaints like lost baggage, flight delays and service issues as well as in cutting unnecessary operational costs.  
-
+  IoT is also being utilized in navigation of flights such that aircraft always takes an optimal route thereby optimizing the fuel use.
+  This is being implemented by Air Asia with help of GE to cut fuel costs. 
   
-
-Airways like Virgin Atlantic, Etihad are manufacturing planes that are connected with help of IoT devices. Data of half a terabyte is expected to be produced over a flight journey, this will be analyzed to get the information regarding mechanical issues etc., before they may even occur. With help of such technology the flight delays, safety issues will be restricted.  
-
-  
-
-Delta was one of the first airlines to introduce Radio Frequency Identification (RFID), a baggage tracking technology that leverages IoT. With help of RFID, the customers can always access their baggage location from their phone while travelling with the airlines. 
-
-  
-
-IoT is also being utilized in navigation of flights such that aircraft always takes an optimal route thereby optimizing the fuel use. This is being implemented by Air Asia with help of GE to cut fuel costs. 
-
- 
-
- Jet Blue with help of IoT has automated the check in process for customers, with a ticket and seat being issued directly to every customer not needing any customer inputs by analyzing their preferences from their data.  
+  Jet Blue with help of IoT has automated the check in process for customers, with a ticket and seat being issued directly to every
+  customer not needing any customer inputs by analyzing their preferences from their data.  
 
      
 
