@@ -356,23 +356,11 @@ The Internet of Things (IoT) has advanced its applications in the field of Healt
   
 
   
-* * IoT for managing inventory\: There is a considerable amount of change in the way the hospitals have taken advantage of the IoT inventory management for the inventory control in the warehouses and the pharmacies.  
-
+ * IoT for managing inventory\: There is a considerable amount of change in the way the hospitals have taken advantage of the IoT inventory management for the inventory control in the warehouses and the pharmacies.  
   
+ * IoT for optimization of healthcare workflow\ : Adoption of wireless infrastructure have helped manage the throughput and perform an analysis of the existence of bottlenecks, if any, in the system and that we could get rid of the same.  
 
-   
-
-  
-
-* * IoT for optimization of healthcare workflow\ : Adoption of wireless infrastructure have helped manage the throughput and perform an analysis of the existence of bottlenecks, if any, in the system and that we could get rid of the same.  
-
-  
-
-   
-
-  
-
-* *IoT for integrating the medical devices\: Different ways are being looked at for integrating the devices like Fitbits with a view to obtain more data about the patient and be taken care of.  Neel Ganguly, vice president and CIO at JFK Health System in Edison, New Jersey mentioned of JFK Health System starting to use devices like blood pressure cuffs, glucometers etc., with the intention of collecting data about the various signs of the patients which helped them serve the patients in a more effective manner.  
+ * IoT for integrating the medical devices\: Different ways are being looked at for integrating the devices like Fitbits with a view to obtain more data about the patient and be taken care of.  Neel Ganguly, vice president and CIO at JFK Health System in Edison, New Jersey mentioned of JFK Health System starting to use devices like blood pressure cuffs, glucometers etc., with the intention of collecting data about the various signs of the patients which helped them serve the patients in a more effective manner.  
 
   
 
