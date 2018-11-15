@@ -1,4 +1,4 @@
-# Role of Big Data in IoT :hand: fa18-523-71 fa18-523-59 
+# Role of Big Data and IoT in Real World  :hand: fa18-523-71 fa18-523-59 
 
   
 
