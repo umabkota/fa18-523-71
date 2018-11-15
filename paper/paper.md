@@ -342,7 +342,7 @@ The Internet of Things and Big Data coming together plays and important role in 
 
   
 
-- Application in Manufacturing Industries/:  
+- Application in Manufacturing Industries /:  
 
   
 
@@ -366,7 +366,7 @@ The Internet of Things (IoT) has advanced its applications in the field of Healt
 
   
 
-     IoT for managing inventory/: There is a considerable amount of change in the way the hospitals have taken advantage of the IoT inventory management for the inventory control in the warehouses and the pharmacies.  
+- IoT for managing inventory/: There is a considerable amount of change in the way the hospitals have taken advantage of the IoT inventory management for the inventory control in the warehouses and the pharmacies.  
 
   
 
@@ -374,7 +374,7 @@ The Internet of Things (IoT) has advanced its applications in the field of Healt
 
   
 
-    IoT for optimization of healthcare workflow/ : Adoption of wireless infrastructure have helped manage the throughput and perform an analysis of the existence of bottlenecks, if any, in the system and that we could get rid of the same.  
+- IoT for optimization of healthcare workflow/ : Adoption of wireless infrastructure have helped manage the throughput and perform an analysis of the existence of bottlenecks, if any, in the system and that we could get rid of the same.  
 
   
 
@@ -382,15 +382,11 @@ The Internet of Things (IoT) has advanced its applications in the field of Healt
 
   
 
-    IoT for integrating the medical devices/: Different ways are being looked at for integrating the devices like Fitbits with a view to obtain more data about the patient and be taken care of.  Neel Ganguly, vice president and CIO at JFK Health System in Edison, New Jersey mentioned of JFK Health System starting to use devices like blood pressure cuffs, glucometers etc .,with the intention of collecting data about the various signs of the patients which helped them serve the patients in a more effective manner.  
+- IoT for integrating the medical devices/: Different ways are being looked at for integrating the devices like Fitbits with a view to obtain more data about the patient and be taken care of.  Neel Ganguly, vice president and CIO at JFK Health System in Edison, New Jersey mentioned of JFK Health System starting to use devices like blood pressure cuffs, glucometers etc .,with the intention of collecting data about the various signs of the patients which helped them serve the patients in a more effective manner.  
 
   
 
-   
-
-  
-
-    Just like IoT has security concerns in most of its extensive applications, the healthcare industry is no different.  But continuous efforts are being made to get rid of the existing barriers as well as the potential barriers. [@fa18-523-59-www-iot-iotinhealthcare]  
+Just like IoT has security concerns in most of its extensive applications, the healthcare industry is no different.  But continuous efforts are being made to get rid of the existing barriers as well as the potential barriers. [@fa18-523-59-www-iot-iotinhealthcare]  
 
   
 
@@ -400,7 +396,7 @@ The Internet of Things (IoT) has advanced its applications in the field of Healt
 
 The traditional building management systems look after buildings\' power sourced systems. The new Smart building energy management systems with help of IoT sensors offer a lot more than monitoring these systems. The data collected is also leveraged to conduct analysis on the raw data which is then transformed into insightful reports that can help make the systems way more efficient. Sensor devices that track weather and traffic data can also be connected to this system and their data can be utilized in adjusting a building\'s lighting, temperature etc., in real-time. The operating costs can be cut by 25% with help of these systems.  
 
- - Application in Airline Industry/:  
+ - Application in Airline Industry /:  
 
   
 
@@ -420,7 +416,7 @@ IoT is also being utilized in navigation of flights such that aircraft always ta
 
   
 
-### Use cases/:  
+### Use cases /:  
 
   
 
@@ -432,7 +428,7 @@ Now, IoT and Big data is everywhere. Due to the flexibility and scalability of b
 
   
 
-- Caterpillar/: An IoT pioneer – Caterpillar, one of the leading equipment makers is a perfect example of how it has reaped the benefits of using Internet of Things (IoT). They have eased out process of identification of levels of fuels for the personnel operating the machines and the timings of replacement of the air filters using the Internet of Things (IoT) along with Augmented Reality (AR) [@fa18-523-59-www-iot-usercasecaterpillar].  
+- Caterpillar /: An IoT pioneer – Caterpillar, one of the leading equipment makers is a perfect example of how it has reaped the benefits of using Internet of Things (IoT). They have eased out process of identification of levels of fuels for the personnel operating the machines and the timings of replacement of the air filters using the Internet of Things (IoT) along with Augmented Reality (AR) [@fa18-523-59-www-iot-usercasecaterpillar].  
 
   
 
@@ -448,7 +444,7 @@ Now, IoT and Big data is everywhere. Due to the flexibility and scalability of b
 
   
 
-- Smart metering using IoT/: For measuring the consumption of gas, energy and water in buildings, a device capable of working with Internet called a smart meter is used. It has helped overcome the disadvantages of measuring just the overall consumption by allowing to record the level of consumption of each of the resources used thereby benefitting consumers monetary wise. In this way, Internet of Things (IoT) has helped improve the process of forecasting and binding the consumption of power [@fa18-523-59-www-iot-industrialusecase].  
+- Smart metering using IoT /: For measuring the consumption of gas, energy and water in buildings, a device capable of working with Internet called a smart meter is used. It has helped overcome the disadvantages of measuring just the overall consumption by allowing to record the level of consumption of each of the resources used thereby benefitting consumers monetary wise. In this way, Internet of Things (IoT) has helped improve the process of forecasting and binding the consumption of power [@fa18-523-59-www-iot-industrialusecase].  
 
   
 
@@ -456,7 +452,7 @@ Now, IoT and Big data is everywhere. Due to the flexibility and scalability of b
 
   
 
-- Predictive Maintenance using IoT/: Millions of dollars can be saved by the companies by keeping the equipment\'s and assets going all the time with the help of sensors and data analytics thereby preventive maintenance [@fa18-523-59-www-iot-industrialusecase].  
+- Predictive Maintenance using IoT /: Millions of dollars can be saved by the companies by keeping the equipment\'s and assets going all the time with the help of sensors and data analytics thereby preventive maintenance [@fa18-523-59-www-iot-industrialusecase].  
 
   
 
@@ -464,13 +460,7 @@ Now, IoT and Big data is everywhere. Due to the flexibility and scalability of b
 
   
 
-### Future of IoT and Big Data/:  
-
-  
-
-   
-
-  
+### Future of IoT and Big Data /:  
 
 With data coming from disparate data sources and diversified connected devices, it has given the big data analysts option to distinguish and filter data and just process the useful chunks of data further to the data warehouses and then generate Business Intelligence reports from there on. With the emergence of IoT, it has become increasingly possible to reach out to the customers at any given time of the day. Devices like Fitbits and smart devices have made it possible for the doctors to get timely updates of the patient\'s doing about his health thereby allowing the physicists to intervene whenever needed and provide mannerly treatment and diagnosis to their patients. Businesses have been reaping the benefits of the advancement in technology by having the luxury of digitally connecting to their clients even from the most remote locations in the world. In the years to come, the amalgam of advancement in technology i.e. the Internet of Things, big data will give more likelihood to businessmen in gathering even the most detailed information of their client and customers thereby giving themselves a better opportunity to improve their business from the perspective of effectively managing the monetary department and providing a better customer satisfaction which will invariably up their business a great deal [@fa18-523-59-www-iot-futureofiot].  
 
@@ -480,13 +470,7 @@ With data coming from disparate data sources and diversified connected devices, 
 
   
 
-### Conclusion/:  
-
-  
-
-   
-
-  
+### Conclusion /:  
 
 With time and the advancements in the field of IoT and big data, we have come to saying that they are nothing but two sides of the same coin. Why we say so is because Big Data and its analytics is all about data and this data is sourced from many connected devices that are connected to IoT. The data volumes are expected to increase as and how the number of connected devices are to increase thus making the all aspects of life more digital.  
 
@@ -496,7 +480,7 @@ With time and the advancements in the field of IoT and big data, we have come to
 
   
 
-### Acknowledgments/:  
+### Acknowledgments /:  
 
   
 
