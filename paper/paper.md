@@ -38,7 +38,7 @@
 
   
 
-The growing trend of ubiquitous computing has made Internet of things (IoT)  . Almost all the industries today are using sensors to diagnose the performance of their systems, this data is being used to understand the maintenance, repair issues of machines and in bettering the output produced by them. With the humungous growth of such systems not only in factories and machinery but also in daily walks of life, the data generated is growing exponentially. With such huge data handling, Big data infrastructure plays a pivotal role in running and functioning of IoT.  
+The growing trend of ubiquitous computing has made Internet of Things (IoT) a very important technology in a myriad of industries. Almost all industries today are using network connected sensors and devices to diagnose the performance of their systems and the data generated is being used to understand maintenance, repair issues of machines etc., and in bettering the output produced by them. With humungous growth of such connected devices not only in factories and machinery but also in daily walks of life, the data generated is growing exponentially. To store and process such huge data, Big-Data systems are leveraged thereby making them play a pivotal role in running and functioning of IoT.  In this paper, a brief introduction to IoT and the infrastructure of IoT is discussed in the first sections followed by an introduction to Big Data and the role of big data systems in working of IoT. Use cases and applications of IoT and Big Data in real world are also provided in paper, followed by a brief overview of the future trends with regards to IoT.  
 
   
 
@@ -147,7 +147,7 @@ Next layer is termed as connectivity layer which takes care of communication bet
 
   
 
-Edge Computing does the analysis of data elements. Their transformation is achieved by analyzing and filtering data before it is processed further thereby reducing huge computing and networking costs. The incoming raw data from sensors and activators can be selectively sent for further analysis. Also, one of the major concerns of Internet of Things (IoT) architecture is Data Security. Edge computing overcomes this to a considerable extent by feeding some of the sensitive data into sensor devices. Also, devices known as edge devices are coming into existence which will help in analytics and computation purposes delivering data deliverables at a much faster speed in a robust manner. Also, these edge devices will help in maintaining connectivity with connected devices at source thereby allowing us to have a luxury of new smart devices.  
+Edge Computing does the analysis of data elements. Their transformation is achieved by analyzing and filtering data before it is processed further thereby reducing huge computing and networking costs. The incoming raw data from sensors and activators can be selectively sent for further analysis. Also, one of the major concerns of Internet of Things (IoT) architecture is Data Security. Edge computing overcomes this to a considerable extent by feeding some of the sensitive data into sensor devices. Also, devices known as edge devices are coming into existence which will help in analytics and computation purposes delivering data deliverables at a much faster speed in a robust manner. These edge devices will further help in maintaining connectivity with connected devices at source thereby allowing us to have a luxury of new smart devices.  
 
   
 
@@ -171,8 +171,7 @@ Data Accumulation is largely done in distributed frameworks as incoming data is 
 
   
 
-Different translation rules are brought into place for securing connectivity of specific devices. Also, a single model for data abstraction is created and provided to all the devices of a spe
-cific service thereby achieving integration of various devices.  
+Different translation rules are brought into place for securing connectivity of specific devices. Also, a single model for data abstraction is created and provided to all the devices of a specific service thereby achieving integration of various devices.  
 
   
 
@@ -367,7 +366,7 @@ The Internet of Things (IoT) has advanced its applications in the field of Healt
 
   
 
-- Application in Energy Management\:  
+- Application in Energy Management of Buildings\:  
 
   
 
@@ -466,4 +465,4 @@ The authors would like to thank Dr. Gregor von Laszewski for his support and sug
 
   
 
- 
+
